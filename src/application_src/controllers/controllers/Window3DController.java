@@ -184,10 +184,6 @@ import static application_src.application_model.threeD.subsceneparameters.Parame
  * particular entity, then queries the {@link ColorHash} for the {@link Material} to use for the entity.
  */
 public class Window3DController {
-
-    private static final double CANNONICAL_ORIENTATION_X = 145.0;
-    private static final double CANNONICAL_ORIENTATION_Y = -166.0;
-    private static final double CANNONICAL_ORIENTATION_Z = 24.0;
     private static final String CS = ", ";
     private static final String ACTIVE_LABEL_COLOR_HEX = "#ffff66",
             SPRITE_COLOR_HEX = "#ffffff",
