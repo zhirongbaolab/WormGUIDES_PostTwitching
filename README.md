@@ -1,6 +1,8 @@
 # WormGUIDES
 Desktop version of the WormGUIDES iPad and Android apps.
 
+**note this is a not currently under development version housing post twitching embryo data
+
 Source code can be found at https://github.com/tangydoris/WormGUIDES.
 
 This application uses JRE 1.8 version 77+. Source built using JRE 1.8 version 77 downloaded from http://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase8-2177648.html#jre-8u77-oth-JPR. At least update 77 is needed for transparency rendering of colors. Update 66 can be used, but only supports different transparencies for the shade white.<br>
@@ -16,7 +18,7 @@ WormGUIDES is a collaboration led by Drs. Zhirong Bao (MSKCC), Daniel Colon-Ramo
 The WormGUIDES app is developed and maintained by the laboratories of Dr. Zhirong Bao and Dr. William Mohler. Major contributors of the desktop app include Doris Tang (New York University), Braden Katzman (Columbia University) and Dr. Anthony Santella of the Bao Laboratory. For questions or comments contact support@wormguides.org.
 <br><br><br>
 
-
+**NOTE instructions for setting up IDE projects etc for each of the Bao lab software packages can be found in the top level git repository Developer Documentation. 
 
 ####Notes on Eclipse Project Setup
 
